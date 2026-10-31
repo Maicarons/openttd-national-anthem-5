@@ -1,0 +1,98 @@
+; National anthems of the world — Volume 5 of 6 (OpenTTD Base Music)
+; Auto-generated; slot assignment is deterministic from ISO codes.
+
+[metadata]
+name              = national_anthems_vol5
+shortname         = ANT5
+version           = 1
+description       = National anthems of the world — Volume 5 of 6 (OpenTTD Base Music set).
+
+[files]
+theme    = nl.mid
+old_0    = no.mid
+old_1    = np.mid
+old_2    = nr.mid
+old_3    = nz.mid
+old_4    = om.mid
+old_5    = pa.mid
+old_6    = pe.mid
+old_7    = pg.mid
+old_8    = ph.mid
+old_9    = pk.mid
+new_0    = pl.mid
+new_1    = pt.mid
+new_2    = py.mid
+new_3    = qa.mid
+new_4    = ro.mid
+new_5    = ru.mid
+new_6    = rw.mid
+new_7    = sa.mid
+new_8    = sb.mid
+new_9    = sc.mid
+ezy_0    = se.mid
+ezy_1    = sg.mid
+ezy_2    = si.mid
+ezy_3    = sk.mid
+ezy_4    = sl.mid
+ezy_5    = sm.mid
+
+[md5s]
+nl.mid   = 803b5f7791f08c319269d35768638877
+no.mid   = 5eeeed5b645956bc2c782ab4323c340c
+np.mid   = ac48da8fc3b0880dff720bc13401fc63
+nr.mid   = fec99faec886e6bfe3691a5bcd9009b8
+nz.mid   = 0d624efe3f35b2f7e62cead7ba23857c
+om.mid   = a7a9051d68400e81d500028491c5159e
+pa.mid   = 009a436d3b9ab1c84454f2c38af18371
+pe.mid   = fcc71c9d2ed89d17096efef2a5d4638a
+pg.mid   = 2086fa5fe482cf3f4083014c419458fd
+ph.mid   = 161aa7c72056a80c683e97b3a4d07770
+pk.mid   = 53fb41d3ffc88e72f5c9d38b19b8599b
+pl.mid   = 32aa38e3f88cb2a4d0fa3aaf9cac2f77
+pt.mid   = dd003beae770b830af9072afb0f6d2fd
+py.mid   = 293911bd5ba8dc8b3a6e7cf0b07566b0
+qa.mid   = 37d0f830e5d49e0ba052192e70aa3f9d
+ro.mid   = 5e85ba28b2f988d904e43fc2f3467810
+ru.mid   = e419d0cfca5ddd933ed3f2fed17845d0
+rw.mid   = b4ac6163defe96a751539741696ebb20
+sa.mid   = b0c0cb7bbea98d3ff5bc9dabe0aab55c
+sb.mid   = 16065c4d71fbf644ccf38273940fefc9
+sc.mid   = 7723a9ecde070cda4b64c2d8c8974033
+se.mid   = 64a409c3438e0af1d8af4c7685dfb971
+sg.mid   = 44f22b9d9b4423a277a1fb2f4057a892
+si.mid   = 5b08100726c0d574f40328d3da75ca7b
+sk.mid   = 39449480cd98251eec626e89b9b7de8d
+sl.mid   = 3f1ef4f0a3624205068a06c388e827da
+sm.mid   = ca8d9badba726bdd908eb24707609540
+
+[names]
+theme    = Netherlands
+old_0    = Norway
+old_1    = Nepal
+old_2    = Nauru
+old_3    = New Zealand
+old_4    = Oman
+old_5    = Panama
+old_6    = Peru
+old_7    = Papua New Guinea
+old_8    = Philippines
+old_9    = Pakistan
+new_0    = Poland
+new_1    = Portugal
+new_2    = Paraguay
+new_3    = Qatar
+new_4    = Romania
+new_5    = Russia
+new_6    = Rwanda
+new_7    = Saudi Arabia
+new_8    = Solomon Islands
+new_9    = Seychelles
+ezy_0    = Sweden
+ezy_1    = Singapore
+ezy_2    = Slovenia
+ezy_3    = Slovakia
+ezy_4    = Sierra Leone
+ezy_5    = San Marino
+
+[origin]
+default      = National anthems of the world — OpenTTD Base Music, Volume 5 of 6.
