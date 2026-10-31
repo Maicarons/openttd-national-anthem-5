@@ -35,6 +35,10 @@ ezy_2    = si.mid
 ezy_3    = sk.mid
 ezy_4    = sl.mid
 ezy_5    = sm.mid
+ezy_6    = nl.mid
+ezy_7    = no.mid
+ezy_8    = np.mid
+ezy_9    = nr.mid
 
 [md5s]
 nl.mid   = 803b5f7791f08c319269d35768638877
@@ -93,6 +97,10 @@ ezy_2    = Slovenia
 ezy_3    = Slovakia
 ezy_4    = Sierra Leone
 ezy_5    = San Marino
+ezy_6    = Netherlands
+ezy_7    = Norway
+ezy_8    = Nepal
+ezy_9    = Nauru
 
 [origin]
 default      = National anthems of the world — OpenTTD Base Music, Volume 5 of 6.
